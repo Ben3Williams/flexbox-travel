@@ -12,4 +12,4 @@ Travel themed website to practice Flexbox, CSS variables, animations and @suppor
 - create full dist build - minified HTML, move imgs and minified CSS into folder
 
 ## Credit
-This site is based upon the Natours project by Jonas in his great Udemy course which can be found here https://www.udemy.com/advanced-css-and-sass/
+This site is based upon the Trillo project by Jonas in his great Udemy course which can be found here https://www.udemy.com/advanced-css-and-sass/
